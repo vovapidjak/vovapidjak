@@ -7,7 +7,7 @@
 ### 🌱 I’m currently learning python, especially the Django framework
 ### 🎮 I have experience in developing custom games in Lua language in Source 2 game engine
 
-### ⚡ I speak English, Chinese (a little)
+### 🌏 I speak English, Chinese (a little)
 
 <div id="disc" align="center">
 <h2> Languages and Tools </h2>
