@@ -10,8 +10,9 @@
 ### ⚡ I speak English, Chinese (a little)
 
 <div id="disc" align="center">
-<h1> Languages and Tools </h1>
+<h2> Languages and Tools </h2>
 </div>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" title="Lua" width="40" height="40"/>&nbsp;
