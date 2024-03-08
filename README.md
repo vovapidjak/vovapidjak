@@ -2,7 +2,7 @@
 <h1> 🌮👋 Hola amigos 👋🌮</h1>
 </div>
 
-### I'm Junior Developer, currently doing some tutoring🏫🏫🏫🏫
+### I'm (literally) Junior Developer, currently doing some tutoring🏫🏫🏫🏫
 
 ### 🌱 I’m currently learning python, especially the Django framework
 ### 🎮 I have experience in developing custom games in Lua language in Source 2 game engine
