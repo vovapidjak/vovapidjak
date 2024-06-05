@@ -1,10 +1,10 @@
 <div id="header" align="center">
-<h1> 🌮👋 Hola amigos 👋🌮</h1>
+<h1> 🌮👋 Hola 👋🌮</h1>
 </div>
 
-### I'm (literally) Junior Developer, currently doing some tutoring🏫🏫🏫🏫
+### I'm developer, doing some tutoring🏫🏫🏫🏫
 
-### 🌱 I’m currently learning python, especially the Django framework
+### 🌱 I’m currently learning python, especially the FastAPI framework
 ### 🎮 I have experience in developing custom games in Lua language in Source 2 game engine
 
 ### 🌏 I speak English, Chinese (a little)
