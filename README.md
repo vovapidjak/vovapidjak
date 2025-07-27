@@ -4,7 +4,7 @@
 
 ### I'm developer, doing some tutoring🏫🏫🏫🏫
 
-### 🌱 I’m currently learning python, especially the FastAPI framework
+
 ### 🎮 I have experience in developing custom games in Lua language in Source 2 game engine
 
 ### 🌏 I speak English, Chinese (a little)
